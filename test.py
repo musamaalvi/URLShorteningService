@@ -24,5 +24,7 @@ try:
         print("Bad Request")
     else:
         print("status code =>" + str(response.status_code))
+except FileNotFoundError as fne:
+    print(fne)
 except:
     print("Something went wrong")
