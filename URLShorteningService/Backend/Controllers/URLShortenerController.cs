@@ -10,7 +10,7 @@ namespace Backend.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class WeatherForecastController : ControllerBase
+    public class URLShortenerController : ControllerBase
     {
 
         //End point responsible for redirecting to original URL

@@ -44,7 +44,7 @@ namespace URLShorteningService
 
                 //Outputing an API EndPoint which will take that unique Id input and that end point will redirect to link that is 
                 // stored in that filename file
-                Console.WriteLine("Short URL =>  https://localhost:44365/weatherforecast/"+fileName);
+                Console.WriteLine("Short URL =>  https://localhost:44365/URLShortener/" + fileName);
 
             }
             catch (Exception e)
