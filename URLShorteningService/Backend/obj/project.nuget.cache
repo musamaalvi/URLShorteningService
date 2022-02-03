@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pHSUVVKI9XA1/xswhI7vyni3fBFQLTp5+2Pb8SkRjUkaMzeeKr7UtGA/vllsIUriNwmwzUexEaUiW0bUyFsyEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mualvi\\Documents\\Cronofy\\URLShorteningService\\URLShorteningService\\Backend\\Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mualvi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}

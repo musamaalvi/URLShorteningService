@@ -1,0 +1,13 @@
+C:\Users\mualvi\Documents\Cronofy\URLShorteningService\URLShorteningService\URLShorteningService\bin\Debug\netcoreapp3.1\URLShorteningService.exe
+C:\Users\mualvi\Documents\Cronofy\URLShorteningService\URLShorteningService\URLShorteningService\bin\Debug\netcoreapp3.1\URLShorteningService.deps.json
+C:\Users\mualvi\Documents\Cronofy\URLShorteningService\URLShorteningService\URLShorteningService\bin\Debug\netcoreapp3.1\URLShorteningService.runtimeconfig.json
+C:\Users\mualvi\Documents\Cronofy\URLShorteningService\URLShorteningService\URLShorteningService\bin\Debug\netcoreapp3.1\URLShorteningService.runtimeconfig.dev.json
+C:\Users\mualvi\Documents\Cronofy\URLShorteningService\URLShorteningService\URLShorteningService\bin\Debug\netcoreapp3.1\URLShorteningService.dll
+C:\Users\mualvi\Documents\Cronofy\URLShorteningService\URLShorteningService\URLShorteningService\bin\Debug\netcoreapp3.1\URLShorteningService.pdb
+C:\Users\mualvi\Documents\Cronofy\URLShorteningService\URLShorteningService\URLShorteningService\obj\Debug\netcoreapp3.1\URLShorteningService.csproj.AssemblyReference.cache
+C:\Users\mualvi\Documents\Cronofy\URLShorteningService\URLShorteningService\URLShorteningService\obj\Debug\netcoreapp3.1\URLShorteningService.AssemblyInfoInputs.cache
+C:\Users\mualvi\Documents\Cronofy\URLShorteningService\URLShorteningService\URLShorteningService\obj\Debug\netcoreapp3.1\URLShorteningService.AssemblyInfo.cs
+C:\Users\mualvi\Documents\Cronofy\URLShorteningService\URLShorteningService\URLShorteningService\obj\Debug\netcoreapp3.1\URLShorteningService.csproj.CoreCompileInputs.cache
+C:\Users\mualvi\Documents\Cronofy\URLShorteningService\URLShorteningService\URLShorteningService\obj\Debug\netcoreapp3.1\URLShorteningService.dll
+C:\Users\mualvi\Documents\Cronofy\URLShorteningService\URLShorteningService\URLShorteningService\obj\Debug\netcoreapp3.1\URLShorteningService.pdb
+C:\Users\mualvi\Documents\Cronofy\URLShorteningService\URLShorteningService\URLShorteningService\obj\Debug\netcoreapp3.1\URLShorteningService.genruntimeconfig.cache
